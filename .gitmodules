@@ -1,0 +1,6 @@
+[submodule "include/parsedown"]
+	path = include/parsedown
+	url = https://github.com/erusev/parsedown.git
+[submodule "include/flight"]
+	path = include/flight
+	url = https://github.com/mikecao/flight.git
